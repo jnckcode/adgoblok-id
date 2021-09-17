@@ -1,0 +1,7 @@
+0.0.0.0	luxury138.link
+0.0.0.0	128.199.127.22
+0.0.0.0	13.250.221.149
+0.0.0.0	campaign.kdaffiliates.com
+0.0.0.0	adskeeper.com
+0.0.0.0	adclick.g.doubleclick.net
+0.0.0.0	googleadservices.com
