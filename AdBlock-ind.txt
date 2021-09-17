@@ -1,7 +1,7 @@
-0.0.0.0	luxury138.link
-0.0.0.0	128.199.127.22
-0.0.0.0	13.250.221.149
-0.0.0.0	campaign.kdaffiliates.com
-0.0.0.0	adskeeper.com
-0.0.0.0	adclick.g.doubleclick.net
-0.0.0.0	googleadservices.com
+127.0.0.1 luxury138.link
+127.0.0.1 128.199.127.22
+127.0.0.1 13.250.221.149
+127.0.0.1 campaign.kdaffiliates.com
+127.0.0.1 adskeeper.com
+127.0.0.1 adclick.g.doubleclick.net
+127.0.0.1 googleadservices.com
