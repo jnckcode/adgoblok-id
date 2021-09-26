@@ -6,3 +6,5 @@
 127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 googleadservices.com
 127.0.0.1 jsc.adskeeper.co.uk
+127.0.0.1 minilink.me
+127.0.0.1 minilink.id
